@@ -1,5 +1,4 @@
-# publications
-Academic &amp; scholarly contributions
+# Academic &amp; scholarly contributions
 
 Conferences:
 
