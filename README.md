@@ -2,7 +2,7 @@
 
 **Conferences**:
 
-Anstey, K. (2021, May 31 - June 11). _Characterising the internal wave field of Barkley Canyon_ [Presentation]. Canadian Meteorological and Oceanographic Society 55th Congress, Victoria, BC.
+Anstey, K. (2021, May 31 - June 11). _Characterising the internal wave field of Barkley Canyon_ [Oral presentation]. Canadian Meteorological and Oceanographic Society 55th Congress, Victoria, BC.
 
 **Journal articles**:
 
