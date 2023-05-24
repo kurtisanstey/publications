@@ -7,3 +7,7 @@ Anstey, K. (2021, May 31 - June 11). _Characterising the internal wave field of 
 **Journal articles**:
 
 Anstey, K. (2019). Chandra Telescope Observation Proposal: K Cancri b – Distant Northern Lights. *Afficio Undergraduate Journal, 3*(1), Saint Mary's University. Accessed from https://smu.ca/academics/name-356200-en.html
+
+**Thesis**
+
+Anstey, K. (2022). Topographic effects on internal waves at Barkley Canyon [Master’s thesis, University of Victoria]. UVicSpace. Accessed from https://dspace.library.uvic.ca/handle/1828/14166?show=full
