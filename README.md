@@ -15,3 +15,17 @@ Anstey, K. (2019). Chandra Telescope Observation Proposal: K Cancri b – Distan
 **Theses**:
 
 Anstey, K. (2022). _Topographic effects on internal waves at Barkley Canyon_ [Master’s thesis, University of Victoria]. UVicSpace. 
+
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0003-7505-808X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0003-7505-808X
+    </a>
