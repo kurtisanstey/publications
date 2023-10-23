@@ -1,5 +1,25 @@
 # Academic &amp; scholarly contributions
 
+**ORCID**:
+
+'
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0003-7505-808X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0003-7505-808X
+    </a>
+'
+
+___________________________________________
+
 **Conferences**:
 
 Anstey, K. (2021, May 31 - June 11). _Characterising the internal wave field of Barkley Canyon_ [Oral presentation]. Canadian Meteorological and Oceanographic Society 55th Congress, Victoria, BC.
