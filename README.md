@@ -31,6 +31,7 @@ Anstey, K. (2023, March 20). The science of surf forecasts [Guest lecture]. GEOG
 **Journal articles**:
 
 Anstey, K., Klymak, J., Mihaly, S., & Thomson, R. (2024). Internal waves force elevated turbulent mixing at Barkley Canyon [Manuscript submitted for publication]. *Journal of Geophysical Research: Oceans*. 
+
 Anstey, K. (2019). Chandra Telescope Observation Proposal: K Cancri b – Distant Northern Lights. *Afficio Undergraduate Journal, 3*(1), Saint Mary's University.
 
 **Theses**:
