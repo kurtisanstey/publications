@@ -30,9 +30,9 @@ Anstey, K. (2023, March 20). The science of surf forecasts [Guest lecture]. GEOG
 
 **Journal articles**:
 
-Anstey, K., Klymak, J., Mihaly, S., & Thomson, R. (2024). Internal waves force elevated turbulent mixing at Barkley Canyon [Manuscript submitted for publication]. *Journal of Geophysical Research: Oceans*. 
+Anstey, K., Klymak, J., Mihaly, S., & Thomson, R. (2024). Internal waves force elevated turbulent mixing at Barkley Canyon [Arcticle accepted for publication]. *Journal of Geophysical Research: Oceans*. https://doi.org/10.1029/2023JC020760
 
-Xu, C., Wu, Y., Williams, W., Anstey, K., Wan, D., & Greenberg, D. (2024). Baroclinic tide generation at the Dolphin and Union Strait in the southern Canadian Arctic Archipelago. *ARCTIC, 77*(1), 25-39. https://doi.org/10.14430/arctic79227
+Xu, C., Wu, Y., Williams, W., Anstey, K., Wan, D., & Greenberg, D. (2024). Baroclinic tide generation at the Dolphin and Union Strait in the southern Canadian Arctic Archipelago [Article accepted for publication]. *ARCTIC, 77*(1), 25-39. https://doi.org/10.14430/arctic79227
 
 Anstey, K. (2019). Chandra telescope observation proposal: K Cancri b – Distant northern lights. *Afficio Undergraduate Journal, 3*(1), Saint Mary's University. https://www.smu.ca/academics/name-356200-en.html
 
