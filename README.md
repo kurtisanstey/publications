@@ -30,7 +30,7 @@ Anstey, K. (2023, March 20). The science of surf forecasts [Guest lecture]. GEOG
 
 **Journal articles**:
 
-Anstey, K., Klymak, J., Mihaly, S., & Thomson, R. (2024). Internal waves force elevated turbulent mixing at Barkley Canyon [Arcticle accepted for publication]. *Journal of Geophysical Research: Oceans*. https://doi.org/10.1029/2023JC020760
+Anstey, K. J., Klymak, J. M., Mihaly, S. F., & Thomson, R. E. (2024). Internal waves force elevated turbulent mixing at Barkley Canyon. *Journal of Geophysical Research: Oceans, 129*, e2023JC020760. https://doi.org/10.1029/2023JC020760
 
 Xu, C., Wu, Y., Williams, W., Anstey, K., Wan, D., & Greenberg, D. (2024). Baroclinic tide generation at the Dolphin and Union Strait in the southern Canadian Arctic Archipelago [Article accepted for publication]. *ARCTIC, 77*(1), 25-39. https://doi.org/10.14430/arctic79227
 
