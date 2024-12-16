@@ -22,7 +22,7 @@ ___________________________________________
 
 **Book contributions**:
 
-Thomson, R. E., & Emery, W. J. (2024). *Data analysis methods in physical oceanography*. Elsevier.
+Thomson, R. E., & Emery, W. J. (2024). *Data analysis methods in physical oceanography* [data analysis and visualisation contributions]. Elsevier.
 
 **Conferences**:
 
