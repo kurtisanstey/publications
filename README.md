@@ -20,6 +20,10 @@
 
 ___________________________________________
 
+**Book contributions**:
+
+Thomson, R. E., & Emery, W. J. (2024). *Data analysis methods in physical oceanography*. Elsevier.
+
 **Conferences**:
 
 Anstey, K. (2021, May 31 - June 11). *Characterising the internal wave field of Barkley Canyon* [Oral presentation]. Canadian Meteorological and Oceanographic Society 55th Congress, Victoria, BC.
